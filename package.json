@@ -1,0 +1,37 @@
+{
+  "name": "proiect",
+  "version": "1.0.0",
+  "description": "Proiect magazin casti moto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cristache Rares-Stefan",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "ejs": "^3.1.9",
+    "express": "^4.19.1",
+    "express-session": "^1.18.0",
+    "formidable": "^3.5.1",
+    "nodemailer": "^6.9.13",
+    "nodemon": "^3.1.0",
+    "pg": "^8.11.5",
+    "puppeteer": "^22.6.2",
+    "qrcode": "^1.5.3",
+    "sass": "^1.74.1",
+    "sharp": "^0.33.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KanekiLor/Proiect-Magazin-Casti-Moto.git"
+  },
+  "keywords": [
+    "263",
+    "rares"
+  ],
+  "bugs": {
+    "url": "https://github.com/KanekiLor/Proiect-Magazin-Casti-Moto/issues"
+  },
+  "homepage": "https://github.com/KanekiLor/Proiect-Magazin-Casti-Moto#readme"
+}
